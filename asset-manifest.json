@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/bahu1/static/css/main.5838e05f.chunk.css",
-    "main.js": "/bahu1/static/js/main.244f6f04.chunk.js",
-    "main.js.map": "/bahu1/static/js/main.244f6f04.chunk.js.map",
-    "runtime-main.js": "/bahu1/static/js/runtime-main.bb75eeb5.js",
-    "runtime-main.js.map": "/bahu1/static/js/runtime-main.bb75eeb5.js.map",
-    "static/js/2.c581f591.chunk.js": "/bahu1/static/js/2.c581f591.chunk.js",
-    "static/js/2.c581f591.chunk.js.map": "/bahu1/static/js/2.c581f591.chunk.js.map",
-    "index.html": "/bahu1/index.html",
-    "precache-manifest.8e0a640c5d6ff441d6f2475e30354057.js": "/bahu1/precache-manifest.8e0a640c5d6ff441d6f2475e30354057.js",
-    "service-worker.js": "/bahu1/service-worker.js",
-    "static/css/main.5838e05f.chunk.css.map": "/bahu1/static/css/main.5838e05f.chunk.css.map",
-    "static/js/2.c581f591.chunk.js.LICENSE": "/bahu1/static/js/2.c581f591.chunk.js.LICENSE",
-    "static/media/Members.css": "/bahu1/static/media/vedha.4861c381.jpg",
-    "static/media/Arulbahu.css": "/bahu1/static/media/og1.7ac9ef4b.jpg",
-    "static/media/Contact.css": "/bahu1/static/media/contact.55ff59fb.jpg",
-    "static/media/Login.css": "/bahu1/static/media/login.a7071ddc.jpg",
-    "static/media/Home.css": "/bahu1/static/media/sugg2.1819daa1.jpg"
+    "main.css": "/Bahu1/static/css/main.a12ba2c2.chunk.css",
+    "main.js": "/Bahu1/static/js/main.a6748ec5.chunk.js",
+    "main.js.map": "/Bahu1/static/js/main.a6748ec5.chunk.js.map",
+    "runtime-main.js": "/Bahu1/static/js/runtime-main.0c49ec06.js",
+    "runtime-main.js.map": "/Bahu1/static/js/runtime-main.0c49ec06.js.map",
+    "static/js/2.c581f591.chunk.js": "/Bahu1/static/js/2.c581f591.chunk.js",
+    "static/js/2.c581f591.chunk.js.map": "/Bahu1/static/js/2.c581f591.chunk.js.map",
+    "index.html": "/Bahu1/index.html",
+    "precache-manifest.2f008ba6821c4d1a4a8145f1a83ed7da.js": "/Bahu1/precache-manifest.2f008ba6821c4d1a4a8145f1a83ed7da.js",
+    "service-worker.js": "/Bahu1/service-worker.js",
+    "static/css/main.a12ba2c2.chunk.css.map": "/Bahu1/static/css/main.a12ba2c2.chunk.css.map",
+    "static/js/2.c581f591.chunk.js.LICENSE": "/Bahu1/static/js/2.c581f591.chunk.js.LICENSE",
+    "static/media/Members.css": "/Bahu1/static/media/vedha.4861c381.jpg",
+    "static/media/Arulbahu.css": "/Bahu1/static/media/og1.7ac9ef4b.jpg",
+    "static/media/Contact.css": "/Bahu1/static/media/contact.55ff59fb.jpg",
+    "static/media/Login.css": "/Bahu1/static/media/login.a7071ddc.jpg",
+    "static/media/Home.css": "/Bahu1/static/media/sugg2.1819daa1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb75eeb5.js",
+    "static/js/runtime-main.0c49ec06.js",
     "static/js/2.c581f591.chunk.js",
-    "static/css/main.5838e05f.chunk.css",
-    "static/js/main.244f6f04.chunk.js"
+    "static/css/main.a12ba2c2.chunk.css",
+    "static/js/main.a6748ec5.chunk.js"
   ]
 }
